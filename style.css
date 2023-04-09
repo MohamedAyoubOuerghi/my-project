@@ -1,0 +1,95 @@
+body{
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+background-color: burlywood;
+
+
+}
+
+
+
+/*la barre menu*/
+.menu li {
+
+  display: inline-block;
+  padding:0px  20px;
+align-content: center;
+}
+.menu{
+  text-align: center;
+position: sticky;
+background-color: rgb(14, 223, 238);
+list-style: none;
+top: 0;
+padding: 10px;
+}
+
+
+
+/*------------------*/
+
+.image{
+width: 200px;
+height:  200px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+/*------------*/  
+.welcome{
+
+text-align: center;
+width: 300px;
+border: 15px solid green;
+margin: auto;
+width:50% ;
+margin-top: 50px;
+padding: 10px;
+}
+
+/*----------*/
+.about-me{
+
+  text-align: center;
+  width: 300px;
+  border: 15px solid green;
+  margin: auto;
+  width: 50%;
+  margin-top: 50px;
+  padding: 10px;
+  }
+
+  /*----------*/
+  .resume{
+
+    text-align: center;
+    width: 300px;
+    border: 15px solid green;
+    margin: auto;
+    width: 50%;
+    margin-top: 50px;
+    padding: 10px;
+    }
+
+    /*---------*/
+    .contact{
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+      
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+        width:  300px;
+        width:50%;
+        margin-top: 50px;
+      
+    }
+    /*------------*/
+    .footer{
+margin-top: 50px;
+
+
+    }
